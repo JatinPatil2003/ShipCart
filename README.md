@@ -2,7 +2,7 @@
 Project made in makethon to solve Real World Problem of reducing time in Billing procedure
 
 
-#Solution
+## Solution
 Developed a product which works on Firebase RealTime Database to keep track of object in track of items in cart.
 Customer will just scan the barcode of the image from esp32cam and then that product quantity will be asked by the system
 and finally it will add in our realtime data-base.
