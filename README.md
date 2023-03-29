@@ -1,0 +1,2 @@
+# SmartCart
+Makethon Project
